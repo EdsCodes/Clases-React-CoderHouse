@@ -1,12 +1,12 @@
 import './App.css'
-import Hero from './Hero'
-import Destacados from './Destacados'
+import Clase3 from './Clase3/Clase3'
+import NavBar from './Clase3/NavBar'
 
 function App() {
   return (
     <>
-      <Hero />
-      <Destacados />
+      <NavBar />
+      <Clase3 />
     </>
   )
 }
