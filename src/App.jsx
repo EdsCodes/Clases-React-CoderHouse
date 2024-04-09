@@ -1,12 +1,10 @@
 import './App.css'
-import Clase3 from './Clase3/Clase3'
-import NavBar from './Clase3/NavBar'
+import CompFn from './Clase4/CompFn'
 
 function App() {
   return (
     <>
-      <NavBar />
-      <Clase3 />
+      <CompFn />     
     </>
   )
 }
